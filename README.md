@@ -1,5 +1,6 @@
-# **Pictures of cats**
-This page includes pictures of cats.
+# **Fun facts of cats**
+This page includes fun facts and pictures of cats.
+
 > [!TIP]
 > Links to the pictures are included below the picture.
 
