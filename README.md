@@ -23,11 +23,12 @@ Even though the man is mostly known as a mathematician and a physicist, he's als
 ## 3. Stubbs, the mayor of Talkeetna
 
 A cat served as the mayor of a town called Talkeetna, Alaska for twenty years. 
+
+> [!NOTE]
 > The cat's name was Stubbs, and it served as the mayor from 1997 to 2017.
 
 ![Picture of Stubbs the cat](https://upload.wikimedia.org/wikipedia/commons/e/ed/Mayor_Stubbs.jpg)
 
-> [!NOTE]
 > Source: [flickr.com](https://www.flickr.com/photos/queen_of_subtle/186866983)
 
 ## A table of the richest cats in the world
