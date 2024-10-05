@@ -19,7 +19,7 @@ Even though the man is mostly known as a mathematician and a physicist, he's als
 
 > Source: [picryl.com](https://picryl.com/media/cat-with-glasses-cat-crafty-cat-animals-4a9b72)
 
-## 3. 
+## 3. Stubbs, the mayor of Talkeetna
 
 A cat served as the mayor of a town called Talkeetna, Alaska for twenty years. 
 > The cat's name was Stubbs, and it served as the mayor from 1997 to 2017.
