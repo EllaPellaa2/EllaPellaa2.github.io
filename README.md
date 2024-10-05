@@ -9,8 +9,20 @@ This page includes fun facts of cats.
 
 ## 1. Cats cannot taste sweetness
 
-> Cats do have a good sense of taste otherwise, but sweetness is the one thing they cannot taste.
+Cats do have a good sense of taste otherwise, but sweetness is the one thing they cannot taste.
 
 ## 2. Isaac Newton is the one who invented cat doors
 
-> Even though the man is mostly known as a mathematician and a physicist, he's also the one who invented cat doors. 
+Even though the man is mostly known as a mathematician and a physicist, he's also the one who invented cat doors. 
+
+![Picture of a cat with glasses](https://cdn12.picryl.com/photo/2016/12/31/cat-with-glasses-cat-crafty-cat-animals-4a9b72-1024.jpg)
+
+> Source: [picryl.com](https://picryl.com/media/cat-with-glasses-cat-crafty-cat-animals-4a9b72)
+
+## 3. 
+
+A cat served as the mayor of a town called Talkeetna, Alaska for twenty years. 
+> The cat's name was Stubbs, and it served as the mayor from 1997 to 2017.
+
+![Picture of Stubbs the cat](https://upload.wikimedia.org/wikipedia/commons/e/ed/Mayor_Stubbs.jpg)
+> Source: [flickr.com](https://www.flickr.com/photos/queen_of_subtle/186866983)
