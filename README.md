@@ -28,6 +28,7 @@ A cat served as the mayor of a town called Talkeetna, Alaska for twenty years.
 > Source: [flickr.com](https://www.flickr.com/photos/queen_of_subtle/186866983)
 
 ## A table of the richest cats in the world
+
 | Rank | Name | Worth |
 |-----:|------|-------|
 |     1| Nala | $100 million |
