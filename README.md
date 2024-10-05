@@ -26,3 +26,13 @@ A cat served as the mayor of a town called Talkeetna, Alaska for twenty years.
 
 ![Picture of Stubbs the cat](https://upload.wikimedia.org/wikipedia/commons/e/ed/Mayor_Stubbs.jpg)
 > Source: [flickr.com](https://www.flickr.com/photos/queen_of_subtle/186866983)
+
+## A table of the richest cats in the world
+| Rank | Name | Worth |
+|-----:|------|-------|
+|     1| Nala | $100 million |
+|     2| Olivia Benson| $97 million |
+|     3| Choupette | $13 million |
+|     4| Smoothie the cat | $7,423 |
+
+> Source: [economictimes.com](https://economictimes.indiatimes.com/industry/miscellaneous/here-are-the-richest-cats-in-the-world-in-2023/smoothie-the-cat/slideshow/102613319.cms)
