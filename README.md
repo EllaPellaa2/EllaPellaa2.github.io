@@ -7,3 +7,7 @@ This page includes fun facts and pictures of cats.
 ![Picture of a black cat](https://c.pxhere.com/photos/66/6d/cat_animal_pet_eyes_animal_world_cat's_eyes_cat_face_mammal-1234967.jpg!d)
 
 > Source: [pxhere.com](https://pxhere.com/en/photo/1234967)
+
+### Cats cannot taste sweetness
+> [!NOTE]
+> Cats do have an amazing sense of taste otherwise, but sweetness is the one thing they cannot taste.
